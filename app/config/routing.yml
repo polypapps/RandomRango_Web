@@ -1,0 +1,4 @@
+random_rango_main:
+    resource: "@RandomRangoMainBundle/Resources/config/routing.yml"
+    prefix:   /
+
