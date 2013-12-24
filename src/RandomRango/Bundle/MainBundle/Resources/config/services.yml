@@ -1,0 +1,7 @@
+parameters:
+#    random_rango_main.example.class: RandomRango\Bundle\MainBundle\Example
+
+services:
+#    random_rango_main.example:
+#        class: %random_rango_main.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
